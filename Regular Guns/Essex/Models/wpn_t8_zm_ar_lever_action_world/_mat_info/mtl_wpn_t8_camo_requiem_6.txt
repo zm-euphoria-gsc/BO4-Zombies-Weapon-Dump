@@ -1,0 +1,19 @@
+Name: mc/mtl_wpn_t8_camo_requiem_6
+
+Techset: techset_638df208a00312eb
+
+semantic,image_name
+tintMask,$white_reveal
+glossBodyMap,$camo_base_gloss
+edgeFadeMap,i_wpn_t7_camo_obsidian_r
+emissiveMap,i_t8_zm_decal_dusty_ice_chunks_c
+revealMap,i_t7_decal_grunge_water_puddle_blend_r
+thermalHeatmap,$gray_32_one_channel
+alphaMask,i_c_spc_corvus_m
+flickerLookupMap,tv_lookup
+normalMap,i_wpn_t7_camo_obsidian_n
+camoMaskMap,$camo_base_mask
+colorMap,i_wpn_t7_camo_obsidian_c
+distortionMap,i_t7_ice_wall_shards_blend_n
+normalBodyMap,$camo_base_normal
+specularMask,core_metal_rusty_m

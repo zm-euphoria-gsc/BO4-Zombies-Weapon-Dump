@@ -1,0 +1,10 @@
+Name: mc/mtl_wpn_t7_paint_left
+
+Techset: techset_2c91aec7d5e0b37d
+
+semantic,image_name
+thermalHeatmap,$gray_32_one_channel
+normalMap,$identitynormalmap
+glossMap,$white_gloss
+colorMap,$blacktransparent_color
+specColorMap,$specular

@@ -1,0 +1,13 @@
+Name: mc/mtl_wpn_t8_zm_hands_charon_metalplate_01
+
+Techset: techset_7be0b6d53cad55de
+
+semantic,image_name
+aoMap,i_wpn_t8_zm_hands_charon_metalplate_01_o
+emissiveMap,i_wpn_t8_zm_hands_charon_metalplate_01_e
+thermalHeatmap,$gray_32_one_channel
+flickerLookupMap,tv_lookup
+normalMap,i_wpn_t8_zm_hands_charon_metalplate_01_n
+glossMap,i_wpn_t8_zm_hands_charon_metalplate_01_g
+colorMap,i_wpn_t8_zm_hands_charon_metalplate_01_c
+specColorMap,i_wpn_t8_zm_hands_charon_metalplate_01_s

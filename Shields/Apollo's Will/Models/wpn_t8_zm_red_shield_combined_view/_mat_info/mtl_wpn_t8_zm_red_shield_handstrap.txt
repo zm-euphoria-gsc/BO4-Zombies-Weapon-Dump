@@ -1,0 +1,11 @@
+Name: mc/mtl_wpn_t8_zm_red_shield_handstrap
+
+Techset: techset_7cdf8869adc7f316
+
+semantic,image_name
+aoMap,i_mtl_wpn_t8_zm_red_shield_handstrap_o
+thermalHeatmap,$gray_32_one_channel
+normalMap,i_mtl_wpn_t8_zm_red_shield_handstrap_n
+glossMap,i_mtl_wpn_t8_zm_red_shield_handstrap_g
+colorMap,i_mtl_wpn_t8_zm_red_shield_handstrap_c
+specColorMap,i_mtl_wpn_t8_zm_red_shield_handstrap_s

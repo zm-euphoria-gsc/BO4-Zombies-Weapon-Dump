@@ -1,0 +1,11 @@
+Name: mc/mtl_wpn_t8_zm_red_spear_cloth
+
+Techset: techset_7cdf8869adc7f316
+
+semantic,image_name
+aoMap,i_mtl_wpn_t8_zm_red_spear_cloth_o
+thermalHeatmap,$gray_32_one_channel
+normalMap,i_mtl_wpn_t8_zm_red_spear_cloth_n
+glossMap,i_mtl_wpn_t8_zm_red_spear_cloth_g
+colorMap,i_mtl_wpn_t8_zm_red_spear_cloth_c
+specColorMap,i_mtl_wpn_t8_zm_red_spear_cloth_s

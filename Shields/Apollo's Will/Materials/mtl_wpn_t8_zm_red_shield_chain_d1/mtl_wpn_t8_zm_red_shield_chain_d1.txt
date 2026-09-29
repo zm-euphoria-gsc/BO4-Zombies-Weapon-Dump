@@ -1,0 +1,11 @@
+Name: mc/mtl_wpn_t8_zm_red_shield_chain_d1
+
+Techset: techset_7cdf8869adc7f316
+
+semantic,image_name
+aoMap,i_mtl_wpn_t8_zm_red_shield_bolts_d1_o
+thermalHeatmap,$gray_32_one_channel
+normalMap,i_mtl_wpn_t8_zm_red_shield_bolts_d1_n
+glossMap,i_mtl_wpn_t8_zm_red_shield_bolts_d1_g
+colorMap,i_mtl_wpn_t8_zm_red_shield_chain_d1_c
+specColorMap,i_mtl_wpn_t8_zm_red_shield_bolts_d1_s

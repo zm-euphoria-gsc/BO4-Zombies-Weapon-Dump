@@ -1,0 +1,17 @@
+Name: mc/mtl_wpn_t8_camo_geo_gem_diamond
+
+Techset: techset_5cd433498676dcfe
+
+semantic,image_name
+aoMap,$occlusion
+thermalHeatmap,$gray_32_one_channel
+flickerLookupMap,tv_lookup
+normalMap,i_wpn_t8_camo_geo_gem_diamond_n
+glossMap,$white_gloss
+wobbleMap,$wetness_ripples
+colorMap,i_t8_micro_noise_01_c
+unk_semantic_ba68f89f,$white_thickness
+emissiveMap3,i_wpn_t8_camo_geo_gem_diamond_edge_e
+emissiveMap2,i_wpn_t8_camo_geo_gem_diamond_core_e
+emissiveMap1,i_mtl_p8_zm_esc_staff_crystal_fire_e
+specColorMap,i_wpn_t8_camo_geo_gem_diamond_s

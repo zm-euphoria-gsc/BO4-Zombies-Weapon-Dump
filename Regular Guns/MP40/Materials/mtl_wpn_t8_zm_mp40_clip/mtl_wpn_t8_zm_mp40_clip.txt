@@ -1,0 +1,11 @@
+Name: mc/mtl_wpn_t8_zm_mp40_clip
+
+Techset: techset_7cdf8869adc7f316
+
+semantic,image_name
+aoMap,i_mtl_wpn_t8_zm_mp40_clip_o
+thermalHeatmap,$gray_32_one_channel
+normalMap,i_mtl_wpn_t8_zm_mp40_clip_n
+glossMap,i_mtl_wpn_t8_zm_mp40_clip_g
+colorMap,i_mtl_wpn_t8_zm_mp40_clip_c
+specColorMap,i_mtl_wpn_t8_zm_mp40_clip_s

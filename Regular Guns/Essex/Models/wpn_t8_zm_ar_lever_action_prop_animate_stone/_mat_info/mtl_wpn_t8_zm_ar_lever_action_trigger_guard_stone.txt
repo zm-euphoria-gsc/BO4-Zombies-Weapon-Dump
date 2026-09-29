@@ -1,0 +1,12 @@
+Name: mc/mtl_wpn_t8_zm_ar_lever_action_trigger_guard_stone
+
+Techset: techset_4052954b3daa2e0f
+
+semantic,image_name
+aoMap,i_wpn_t8_zm_ar_lever_action_trigger_guard_stone_o
+thermalHeatmap,$gray_32_one_channel
+normalMap,i_wpn_t8_zm_ar_lever_action_trigger_guard_stone_n
+glossMap,i_wpn_t8_zm_ar_lever_action_trigger_guard_stone_g
+colorMap,i_wpn_t8_zm_ar_lever_action_trigger_guard_stone_c
+detailMap,i_t7_micro_metal_brushed_01_n
+specColorMap,$black_specular

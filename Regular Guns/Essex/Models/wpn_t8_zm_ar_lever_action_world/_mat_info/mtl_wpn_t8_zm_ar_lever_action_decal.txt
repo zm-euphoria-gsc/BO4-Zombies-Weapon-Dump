@@ -1,0 +1,11 @@
+Name: mc/mtl_wpn_t8_zm_ar_lever_action_decal
+
+Techset: techset_46eccbdeffbaa2b7
+
+semantic,image_name
+aoMap,i_wpn_t8_zm_ar_lever_action_decal_base_o
+tintMask,$white_reveal
+thermalHeatmap,$gray_32_one_channel
+normalMap,i_wpn_t8_zm_ar_lever_action_decal_base_n
+glossMap,$gray
+colorMap,i_wpn_t8_zm_ar_lever_action_decal_base_c

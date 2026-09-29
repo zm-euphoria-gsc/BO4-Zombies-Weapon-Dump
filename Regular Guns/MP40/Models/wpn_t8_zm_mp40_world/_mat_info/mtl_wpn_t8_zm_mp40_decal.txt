@@ -1,0 +1,12 @@
+Name: mc/mtl_wpn_t8_zm_mp40_decal
+
+Techset: techset_2469148a182c1d3e
+
+semantic,image_name
+aoMap,i_mtl_wpn_t8_zm_mp40_decal_o
+tintMask,$white_reveal
+thermalHeatmap,$gray_32_one_channel
+normalMap,i_mtl_wpn_t8_zm_mp40_decal_n
+glossMap,i_mtl_wpn_t8_zm_mp40_decal_g
+colorMap,i_mtl_wpn_t8_zm_mp40_decal_c
+specColorMap,i_mtl_wpn_t8_zm_mp40_decal_s

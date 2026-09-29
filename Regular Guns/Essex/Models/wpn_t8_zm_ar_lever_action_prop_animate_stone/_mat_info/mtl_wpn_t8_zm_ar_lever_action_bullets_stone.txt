@@ -1,0 +1,11 @@
+Name: mc/mtl_wpn_t8_zm_ar_lever_action_bullets_stone
+
+Techset: techset_7cdf8869adc7f316
+
+semantic,image_name
+aoMap,i_wpn_t8_zm_ar_lever_action_bullets_stone_o
+thermalHeatmap,$gray_32_one_channel
+normalMap,i_wpn_t8_zm_ar_lever_action_bullets_stone_n
+glossMap,i_wpn_t8_zm_ar_lever_action_bullets_stone_g
+colorMap,i_wpn_t8_zm_ar_lever_action_bullets_stone_c
+specColorMap,$specular

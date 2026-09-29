@@ -1,0 +1,17 @@
+Name: mc/mtl_wpn_t8_camo_geo_gem_diamond_frame
+
+Techset: techset_35fb1328ef1687cd
+
+semantic,image_name
+mixMap,i_t8_micro_rock_surface_rough_01_h
+aoMap,$occlusion
+thermalHeatmap,$gray_32_one_channel
+specularMapDetail2,$white_specular
+detailMap1,i_t8_micro_metal_rust_01_n
+detailMap2,i_t8_micro_metal_wavy_sheet_painted_n
+glossMapDetail2,i_t8_micro_paint_02_g
+normalMap,i_wpn_t8_camo_geo_gem_diamond_frame_n
+glossMap,$white_gloss
+colorMapDetail2,$black_color
+colorMap,$black_color
+specColorMap,$white_specular

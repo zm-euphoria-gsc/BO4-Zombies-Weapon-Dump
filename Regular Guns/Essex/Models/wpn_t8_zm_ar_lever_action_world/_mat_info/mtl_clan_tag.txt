@@ -1,0 +1,8 @@
+Name: mc/mtl_clan_tag
+
+Techset: techset_783092f99d25bcf8
+
+semantic,image_name
+thermalHeatmap,$gray_32_one_channel
+normalMap,clan_font_n
+colorMap,clan_font_dark_c

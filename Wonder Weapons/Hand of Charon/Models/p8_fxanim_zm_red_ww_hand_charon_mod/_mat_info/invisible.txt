@@ -1,0 +1,7 @@
+Name: mc/invisible
+
+Techset: techset_2656ab69d7e5b667
+
+semantic,image_name
+tintMask,$white_reveal
+colorMap,$blacktransparent_color

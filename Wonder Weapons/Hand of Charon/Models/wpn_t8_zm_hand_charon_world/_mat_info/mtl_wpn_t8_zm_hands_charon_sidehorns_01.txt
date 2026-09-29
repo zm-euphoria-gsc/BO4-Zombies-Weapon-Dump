@@ -1,0 +1,11 @@
+Name: mc/mtl_wpn_t8_zm_hands_charon_sidehorns_01
+
+Techset: techset_7cdf8869adc7f316
+
+semantic,image_name
+aoMap,i_wpn_t8_zm_hands_charon_sidehorns_01_o
+thermalHeatmap,$gray_32_one_channel
+normalMap,i_wpn_t8_zm_hands_charon_sidehorns_01_n
+glossMap,i_wpn_t8_zm_hands_charon_sidehorns_01_g
+colorMap,i_wpn_t8_zm_hands_charon_sidehorns_01_c
+specColorMap,i_wpn_t8_zm_hands_charon_sidehorns_01_s

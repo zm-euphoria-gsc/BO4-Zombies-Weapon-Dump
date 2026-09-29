@@ -1,0 +1,14 @@
+Name: mc/mtl_wpn_t8_zm_ar_lever_action_screws_stone
+
+Techset: techset_260ac7565d8ca6a4
+
+semantic,image_name
+aoMap,i_wpn_t8_zm_ar_lever_action_screws_stone_o
+glossBodyMap,$camo_base_gloss
+thermalHeatmap,$gray_32_one_channel
+normalMap,i_wpn_t8_zm_ar_lever_action_screws_stone_n
+glossMap,i_wpn_t8_zm_ar_lever_action_screws_stone_g
+camoMaskMap,$black
+colorMap,i_wpn_t8_zm_ar_lever_action_screws_stone_c
+normalBodyMap,$camo_base_normal
+specColorMap,$specular
